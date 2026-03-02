@@ -1,5 +1,20 @@
 ## Hi there 👋
 
+
+I'm Jose J Arevalo Carrascal and i'm Mechanical Engineer graduated from "Universidad del Norte" with experience in industrial maintance, inventory control and operational management because i worked in Pricesmart as Maintenance Engineer.
+
+Through my career, i got knowledge in mechanical design, thermodynamics, fluid mechanics and renewable energy system. 
+
+I like vehicles, especially cars. I'm interested in their engines and design, which is why i'd like to work in company that build them.
+
+I'm currently learning to become a software developer at RIWI in the morning and i take English classes at "Alianza Canadiense" in the evenings. 
+
+In my free time, i like play videogames, play football, go to the gym, watch movie or videos about how to repair a car and install new upgrade
+
+
+
+
+
 <!--
 **Jose-1017/Jose-1017** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
